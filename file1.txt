@@ -1,2 +1,4 @@
 HI
 How are you ?
+
+Adding new line in file 1
